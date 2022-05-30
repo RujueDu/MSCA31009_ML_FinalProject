@@ -1,4 +1,6 @@
 # MSCA31009_ML_FinalProject
+This repository contains materials for the MSCA 31006 Machine Learning & Predictive Analytics Team Project at the University of Chicago.
+
 This project is aimed to build machine learning models to classify music into different genres.
 
 ## Data Source
